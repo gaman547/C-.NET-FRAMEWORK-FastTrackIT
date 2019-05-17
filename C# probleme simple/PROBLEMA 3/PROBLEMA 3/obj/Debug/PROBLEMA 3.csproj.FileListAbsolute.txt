@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\PROBLEMA 3\PROBLEMA 3\bin\Debug\PROBLEMA 3.exe.config
+E:\proiecte fastTrack\PROBLEMA 3\PROBLEMA 3\bin\Debug\PROBLEMA 3.exe
+E:\proiecte fastTrack\PROBLEMA 3\PROBLEMA 3\bin\Debug\PROBLEMA 3.pdb
+E:\proiecte fastTrack\PROBLEMA 3\PROBLEMA 3\obj\Debug\PROBLEMA 3.csprojAssemblyReference.cache
+E:\proiecte fastTrack\PROBLEMA 3\PROBLEMA 3\obj\Debug\PROBLEMA 3.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\PROBLEMA 3\PROBLEMA 3\obj\Debug\PROBLEMA 3.exe
+E:\proiecte fastTrack\PROBLEMA 3\PROBLEMA 3\obj\Debug\PROBLEMA 3.pdb

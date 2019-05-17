@@ -1,0 +1,14 @@
+E:\proiecte fastTrack\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\obj\Debug\Random-Assigment-Directive-Unit.csprojAssemblyReference.cache
+E:\proiecte fastTrack\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\obj\Debug\Random-Assigment-Directive-Unit.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\bin\Debug\Random-Assigment-Directive-Unit.exe.config
+E:\proiecte fastTrack\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\bin\Debug\Random-Assigment-Directive-Unit.exe
+E:\proiecte fastTrack\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\bin\Debug\Random-Assigment-Directive-Unit.pdb
+E:\proiecte fastTrack\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\obj\Debug\Random-Assigment-Directive-Unit.exe
+E:\proiecte fastTrack\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\obj\Debug\Random-Assigment-Directive-Unit.pdb
+E:\proiecte fastTrack\PROBLEMA 2 ALTFEL\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\bin\Debug\Random-Assigment-Directive-Unit.exe.config
+E:\proiecte fastTrack\PROBLEMA 2 ALTFEL\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\bin\Debug\Random-Assigment-Directive-Unit.exe
+E:\proiecte fastTrack\PROBLEMA 2 ALTFEL\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\bin\Debug\Random-Assigment-Directive-Unit.pdb
+E:\proiecte fastTrack\PROBLEMA 2 ALTFEL\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\obj\Debug\Random-Assigment-Directive-Unit.csprojAssemblyReference.cache
+E:\proiecte fastTrack\PROBLEMA 2 ALTFEL\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\obj\Debug\Random-Assigment-Directive-Unit.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\PROBLEMA 2 ALTFEL\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\obj\Debug\Random-Assigment-Directive-Unit.exe
+E:\proiecte fastTrack\PROBLEMA 2 ALTFEL\Random-Assigment-Directive-Unit\Random-Assigment-Directive-Unit\obj\Debug\Random-Assigment-Directive-Unit.pdb
