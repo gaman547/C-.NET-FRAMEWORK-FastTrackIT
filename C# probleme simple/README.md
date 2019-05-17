@@ -70,14 +70,6 @@ Numar: 6
 
 Distanta: 6
 
-Rezultatul afisat este urmatorul
-
-666666
-66666
-6666
-666
-66
-6
 
 5. Utilizatorul va introduce la consola o propozitie. Programul va citi propozitia si va numara cate cuvinte se gasesc in propozitie. Propozitia poate fi scrisa utilizand litere mari, litere mici (doar din alfabetul latin), cifre, si alte caractere (cum ar fi virgula, exclamatie, punct, etc. Numarul de cuvinte gasite va fi afisat la consola.
 
