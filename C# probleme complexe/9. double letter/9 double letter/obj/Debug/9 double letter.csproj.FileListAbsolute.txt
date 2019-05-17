@@ -1,0 +1,14 @@
+E:\proiecte fastTrack\9 double letter\9 double letter\obj\Debug\9 double letter.csprojAssemblyReference.cache
+E:\proiecte fastTrack\9 double letter\9 double letter\obj\Debug\9 double letter.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\9 double letter\9 double letter\bin\Debug\9 double letter.exe.config
+E:\proiecte fastTrack\9 double letter\9 double letter\bin\Debug\9 double letter.exe
+E:\proiecte fastTrack\9 double letter\9 double letter\bin\Debug\9 double letter.pdb
+E:\proiecte fastTrack\9 double letter\9 double letter\obj\Debug\9 double letter.exe
+E:\proiecte fastTrack\9 double letter\9 double letter\obj\Debug\9 double letter.pdb
+E:\proiecte fastTrack\tema mare\9 double letter\9 double letter\bin\Debug\9 double letter.exe.config
+E:\proiecte fastTrack\tema mare\9 double letter\9 double letter\bin\Debug\9 double letter.exe
+E:\proiecte fastTrack\tema mare\9 double letter\9 double letter\bin\Debug\9 double letter.pdb
+E:\proiecte fastTrack\tema mare\9 double letter\9 double letter\obj\Debug\9 double letter.csprojAssemblyReference.cache
+E:\proiecte fastTrack\tema mare\9 double letter\9 double letter\obj\Debug\9 double letter.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\tema mare\9 double letter\9 double letter\obj\Debug\9 double letter.exe
+E:\proiecte fastTrack\tema mare\9 double letter\9 double letter\obj\Debug\9 double letter.pdb

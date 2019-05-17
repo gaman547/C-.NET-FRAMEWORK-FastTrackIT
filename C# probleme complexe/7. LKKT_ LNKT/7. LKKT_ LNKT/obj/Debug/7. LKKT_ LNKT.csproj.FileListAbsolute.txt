@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\7. LKKT_ LNKT\7. LKKT_ LNKT\bin\Debug\_7.LKKT__LNKT.exe.config
+E:\proiecte fastTrack\7. LKKT_ LNKT\7. LKKT_ LNKT\bin\Debug\_7.LKKT__LNKT.exe
+E:\proiecte fastTrack\7. LKKT_ LNKT\7. LKKT_ LNKT\bin\Debug\_7.LKKT__LNKT.pdb
+E:\proiecte fastTrack\7. LKKT_ LNKT\7. LKKT_ LNKT\obj\Debug\7. LKKT_ LNKT.csprojAssemblyReference.cache
+E:\proiecte fastTrack\7. LKKT_ LNKT\7. LKKT_ LNKT\obj\Debug\7. LKKT_ LNKT.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\7. LKKT_ LNKT\7. LKKT_ LNKT\obj\Debug\_7.LKKT__LNKT.exe
+E:\proiecte fastTrack\7. LKKT_ LNKT\7. LKKT_ LNKT\obj\Debug\_7.LKKT__LNKT.pdb

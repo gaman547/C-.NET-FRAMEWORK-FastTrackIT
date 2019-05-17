@@ -1,0 +1,14 @@
+E:\proiecte fastTrack\8 LUNA CURENTA\8 LUNA CURENTA\bin\Debug\8 LUNA CURENTA.exe.config
+E:\proiecte fastTrack\8 LUNA CURENTA\8 LUNA CURENTA\bin\Debug\8 LUNA CURENTA.exe
+E:\proiecte fastTrack\8 LUNA CURENTA\8 LUNA CURENTA\bin\Debug\8 LUNA CURENTA.pdb
+E:\proiecte fastTrack\8 LUNA CURENTA\8 LUNA CURENTA\obj\Debug\8 LUNA CURENTA.csprojAssemblyReference.cache
+E:\proiecte fastTrack\8 LUNA CURENTA\8 LUNA CURENTA\obj\Debug\8 LUNA CURENTA.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\8 LUNA CURENTA\8 LUNA CURENTA\obj\Debug\8 LUNA CURENTA.exe
+E:\proiecte fastTrack\8 LUNA CURENTA\8 LUNA CURENTA\obj\Debug\8 LUNA CURENTA.pdb
+E:\proiecte fastTrack\tema mare\8 LUNA CURENTA\8 LUNA CURENTA\bin\Debug\8 LUNA CURENTA.exe.config
+E:\proiecte fastTrack\tema mare\8 LUNA CURENTA\8 LUNA CURENTA\bin\Debug\8 LUNA CURENTA.exe
+E:\proiecte fastTrack\tema mare\8 LUNA CURENTA\8 LUNA CURENTA\bin\Debug\8 LUNA CURENTA.pdb
+E:\proiecte fastTrack\tema mare\8 LUNA CURENTA\8 LUNA CURENTA\obj\Debug\8 LUNA CURENTA.csprojAssemblyReference.cache
+E:\proiecte fastTrack\tema mare\8 LUNA CURENTA\8 LUNA CURENTA\obj\Debug\8 LUNA CURENTA.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\tema mare\8 LUNA CURENTA\8 LUNA CURENTA\obj\Debug\8 LUNA CURENTA.exe
+E:\proiecte fastTrack\tema mare\8 LUNA CURENTA\8 LUNA CURENTA\obj\Debug\8 LUNA CURENTA.pdb
