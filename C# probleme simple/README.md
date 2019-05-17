@@ -1,11 +1,8 @@
 primele probleme rezolvate in aproximativ 2 luni. in acest timp am invatat operatiile de baza , lucram cu consola.
 
 problema 9 si 10 sunt in legatutra cu evenimente
-9. Scrieti un program care monitorizeaza 3 foldere diferite, pentru orice modificari posibile, si afiseaza la consola modificarile care s-au produs.
-10. Scrieti un program in care mai multi utilizatori pot sa introduca numele sau (fara a inchide programul). 
-Pentru fiecare utilizator se va afisa textul "Bine ati venit ", folosind evenimente. Pentru utilizatorii cu nume "Marius" sau "Catalin" se va afisa textul "Alarma!", din alt eveniment.
 
-celelalte probleme
+
 
 1. Scrieti o aplicatie care primeste care citeste un numar la consola pe care apoi il tipareste de 4 ori pe o linie folosind spatiul ca si separator si apoi de 4 ori pe o linie fara spatiu. Faceti asta de 2 ori.
 
@@ -146,3 +143,7 @@ Studentul 2 a primit nota 67. Urmatorul multiplu de 5 dupa 67 este 70. Deoarece 
 , Studentul 3 a primit nota 38. Urmatorul multiplu de 5 dupa 37 este 40. Deoarece 40-38 <3, nota rotunjita a studentului va fi 40.
  Studentul 4 a primit nota 33. Deoarece nota este mai mica decat 38 nota nu va fi modificata astfel ca studentul va primi 33.
 
+9. Scrieti un program care monitorizeaza 3 foldere diferite, pentru orice modificari posibile, si afiseaza la consola modificarile care s-au produs.
+
+10. Scrieti un program in care mai multi utilizatori pot sa introduca numele sau (fara a inchide programul). 
+Pentru fiecare utilizator se va afisa textul "Bine ati venit ", folosind evenimente. Pentru utilizatorii cu nume "Marius" sau "Catalin" se va afisa textul "Alarma!", din alt eveniment.
