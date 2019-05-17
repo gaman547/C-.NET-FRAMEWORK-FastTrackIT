@@ -1,0 +1,14 @@
+E:\proiecte fastTrack\ordine_crescatoare\ordine_crescatoare\bin\Debug\ordine_crescatoare.exe.config
+E:\proiecte fastTrack\ordine_crescatoare\ordine_crescatoare\bin\Debug\ordine_crescatoare.exe
+E:\proiecte fastTrack\ordine_crescatoare\ordine_crescatoare\bin\Debug\ordine_crescatoare.pdb
+E:\proiecte fastTrack\ordine_crescatoare\ordine_crescatoare\obj\Debug\ordine_crescatoare.csprojAssemblyReference.cache
+E:\proiecte fastTrack\ordine_crescatoare\ordine_crescatoare\obj\Debug\ordine_crescatoare.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\ordine_crescatoare\ordine_crescatoare\obj\Debug\ordine_crescatoare.exe
+E:\proiecte fastTrack\ordine_crescatoare\ordine_crescatoare\obj\Debug\ordine_crescatoare.pdb
+E:\proiecte fastTrack\tema mare\4. ordine_crescatoare\ordine_crescatoare\bin\Debug\ordine_crescatoare.exe.config
+E:\proiecte fastTrack\tema mare\4. ordine_crescatoare\ordine_crescatoare\bin\Debug\ordine_crescatoare.exe
+E:\proiecte fastTrack\tema mare\4. ordine_crescatoare\ordine_crescatoare\bin\Debug\ordine_crescatoare.pdb
+E:\proiecte fastTrack\tema mare\4. ordine_crescatoare\ordine_crescatoare\obj\Debug\ordine_crescatoare.csprojAssemblyReference.cache
+E:\proiecte fastTrack\tema mare\4. ordine_crescatoare\ordine_crescatoare\obj\Debug\ordine_crescatoare.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\tema mare\4. ordine_crescatoare\ordine_crescatoare\obj\Debug\ordine_crescatoare.exe
+E:\proiecte fastTrack\tema mare\4. ordine_crescatoare\ordine_crescatoare\obj\Debug\ordine_crescatoare.pdb

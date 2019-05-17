@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\douanumere\douanumere\obj\Debug\douanumere.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\douanumere\douanumere\bin\Debug\douanumere.exe.config
+E:\proiecte fastTrack\douanumere\douanumere\bin\Debug\douanumere.exe
+E:\proiecte fastTrack\douanumere\douanumere\bin\Debug\douanumere.pdb
+E:\proiecte fastTrack\douanumere\douanumere\obj\Debug\douanumere.exe
+E:\proiecte fastTrack\douanumere\douanumere\obj\Debug\douanumere.pdb
+E:\proiecte fastTrack\douanumere\douanumere\obj\Debug\douanumere.csprojAssemblyReference.cache

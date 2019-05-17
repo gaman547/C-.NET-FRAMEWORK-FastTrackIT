@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\10 Palindrom\10 Palindrom\bin\Debug\10 Palindrom.exe.config
+E:\proiecte fastTrack\10 Palindrom\10 Palindrom\bin\Debug\10 Palindrom.exe
+E:\proiecte fastTrack\10 Palindrom\10 Palindrom\bin\Debug\10 Palindrom.pdb
+E:\proiecte fastTrack\10 Palindrom\10 Palindrom\obj\Debug\10 Palindrom.csprojAssemblyReference.cache
+E:\proiecte fastTrack\10 Palindrom\10 Palindrom\obj\Debug\10 Palindrom.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\10 Palindrom\10 Palindrom\obj\Debug\10 Palindrom.exe
+E:\proiecte fastTrack\10 Palindrom\10 Palindrom\obj\Debug\10 Palindrom.pdb

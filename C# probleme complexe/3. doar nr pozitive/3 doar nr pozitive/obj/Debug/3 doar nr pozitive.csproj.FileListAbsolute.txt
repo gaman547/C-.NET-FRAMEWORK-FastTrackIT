@@ -1,0 +1,14 @@
+E:\proiecte fastTrack\3 doar nr pozitive\3 doar nr pozitive\bin\Debug\3 doar nr pozitive.exe.config
+E:\proiecte fastTrack\3 doar nr pozitive\3 doar nr pozitive\bin\Debug\3 doar nr pozitive.exe
+E:\proiecte fastTrack\3 doar nr pozitive\3 doar nr pozitive\bin\Debug\3 doar nr pozitive.pdb
+E:\proiecte fastTrack\3 doar nr pozitive\3 doar nr pozitive\obj\Debug\3 doar nr pozitive.csprojAssemblyReference.cache
+E:\proiecte fastTrack\3 doar nr pozitive\3 doar nr pozitive\obj\Debug\3 doar nr pozitive.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\3 doar nr pozitive\3 doar nr pozitive\obj\Debug\3 doar nr pozitive.exe
+E:\proiecte fastTrack\3 doar nr pozitive\3 doar nr pozitive\obj\Debug\3 doar nr pozitive.pdb
+E:\proiecte fastTrack\tema mare\3 doar nr pozitive\3 doar nr pozitive\bin\Debug\3 doar nr pozitive.exe.config
+E:\proiecte fastTrack\tema mare\3 doar nr pozitive\3 doar nr pozitive\bin\Debug\3 doar nr pozitive.exe
+E:\proiecte fastTrack\tema mare\3 doar nr pozitive\3 doar nr pozitive\bin\Debug\3 doar nr pozitive.pdb
+E:\proiecte fastTrack\tema mare\3 doar nr pozitive\3 doar nr pozitive\obj\Debug\3 doar nr pozitive.csprojAssemblyReference.cache
+E:\proiecte fastTrack\tema mare\3 doar nr pozitive\3 doar nr pozitive\obj\Debug\3 doar nr pozitive.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\tema mare\3 doar nr pozitive\3 doar nr pozitive\obj\Debug\3 doar nr pozitive.exe
+E:\proiecte fastTrack\tema mare\3 doar nr pozitive\3 doar nr pozitive\obj\Debug\3 doar nr pozitive.pdb

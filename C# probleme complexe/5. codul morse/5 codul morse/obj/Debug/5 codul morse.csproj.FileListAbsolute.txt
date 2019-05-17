@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\5 codul morse\5 codul morse\bin\Debug\5 codul morse.exe.config
+E:\proiecte fastTrack\5 codul morse\5 codul morse\bin\Debug\5 codul morse.exe
+E:\proiecte fastTrack\5 codul morse\5 codul morse\bin\Debug\5 codul morse.pdb
+E:\proiecte fastTrack\5 codul morse\5 codul morse\obj\Debug\5 codul morse.csprojAssemblyReference.cache
+E:\proiecte fastTrack\5 codul morse\5 codul morse\obj\Debug\5 codul morse.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\5 codul morse\5 codul morse\obj\Debug\5 codul morse.exe
+E:\proiecte fastTrack\5 codul morse\5 codul morse\obj\Debug\5 codul morse.pdb

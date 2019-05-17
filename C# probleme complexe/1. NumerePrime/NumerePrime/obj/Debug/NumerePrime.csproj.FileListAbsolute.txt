@@ -1,0 +1,14 @@
+E:\proiecte fastTrack\NumerePrime\NumerePrime\bin\Debug\NumerePrime.exe.config
+E:\proiecte fastTrack\NumerePrime\NumerePrime\bin\Debug\NumerePrime.exe
+E:\proiecte fastTrack\NumerePrime\NumerePrime\bin\Debug\NumerePrime.pdb
+E:\proiecte fastTrack\NumerePrime\NumerePrime\obj\Debug\NumerePrime.csprojAssemblyReference.cache
+E:\proiecte fastTrack\NumerePrime\NumerePrime\obj\Debug\NumerePrime.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\NumerePrime\NumerePrime\obj\Debug\NumerePrime.exe
+E:\proiecte fastTrack\NumerePrime\NumerePrime\obj\Debug\NumerePrime.pdb
+E:\proiecte fastTrack\tema mare\1. NumerePrime\NumerePrime\bin\Debug\NumerePrime.exe.config
+E:\proiecte fastTrack\tema mare\1. NumerePrime\NumerePrime\bin\Debug\NumerePrime.exe
+E:\proiecte fastTrack\tema mare\1. NumerePrime\NumerePrime\bin\Debug\NumerePrime.pdb
+E:\proiecte fastTrack\tema mare\1. NumerePrime\NumerePrime\obj\Debug\NumerePrime.csprojAssemblyReference.cache
+E:\proiecte fastTrack\tema mare\1. NumerePrime\NumerePrime\obj\Debug\NumerePrime.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\tema mare\1. NumerePrime\NumerePrime\obj\Debug\NumerePrime.exe
+E:\proiecte fastTrack\tema mare\1. NumerePrime\NumerePrime\obj\Debug\NumerePrime.pdb
