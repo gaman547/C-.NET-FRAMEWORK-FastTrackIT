@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\PROBLEMA 3 ALTFEL\PROBLEMA 3 ALTFEL\bin\Debug\PROBLEMA 3 ALTFEL.exe.config
+E:\proiecte fastTrack\PROBLEMA 3 ALTFEL\PROBLEMA 3 ALTFEL\bin\Debug\PROBLEMA 3 ALTFEL.exe
+E:\proiecte fastTrack\PROBLEMA 3 ALTFEL\PROBLEMA 3 ALTFEL\bin\Debug\PROBLEMA 3 ALTFEL.pdb
+E:\proiecte fastTrack\PROBLEMA 3 ALTFEL\PROBLEMA 3 ALTFEL\obj\Debug\PROBLEMA 3 ALTFEL.csprojAssemblyReference.cache
+E:\proiecte fastTrack\PROBLEMA 3 ALTFEL\PROBLEMA 3 ALTFEL\obj\Debug\PROBLEMA 3 ALTFEL.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\PROBLEMA 3 ALTFEL\PROBLEMA 3 ALTFEL\obj\Debug\PROBLEMA 3 ALTFEL.exe
+E:\proiecte fastTrack\PROBLEMA 3 ALTFEL\PROBLEMA 3 ALTFEL\obj\Debug\PROBLEMA 3 ALTFEL.pdb

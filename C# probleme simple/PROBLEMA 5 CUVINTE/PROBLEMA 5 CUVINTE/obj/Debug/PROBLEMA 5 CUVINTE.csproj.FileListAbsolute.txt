@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\PROBLEMA 5 CUVINTE\PROBLEMA 5 CUVINTE\bin\Debug\PROBLEMA 5 CUVINTE.exe.config
+E:\proiecte fastTrack\PROBLEMA 5 CUVINTE\PROBLEMA 5 CUVINTE\bin\Debug\PROBLEMA 5 CUVINTE.exe
+E:\proiecte fastTrack\PROBLEMA 5 CUVINTE\PROBLEMA 5 CUVINTE\bin\Debug\PROBLEMA 5 CUVINTE.pdb
+E:\proiecte fastTrack\PROBLEMA 5 CUVINTE\PROBLEMA 5 CUVINTE\obj\Debug\PROBLEMA 5 CUVINTE.csprojAssemblyReference.cache
+E:\proiecte fastTrack\PROBLEMA 5 CUVINTE\PROBLEMA 5 CUVINTE\obj\Debug\PROBLEMA 5 CUVINTE.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\PROBLEMA 5 CUVINTE\PROBLEMA 5 CUVINTE\obj\Debug\PROBLEMA 5 CUVINTE.exe
+E:\proiecte fastTrack\PROBLEMA 5 CUVINTE\PROBLEMA 5 CUVINTE\obj\Debug\PROBLEMA 5 CUVINTE.pdb

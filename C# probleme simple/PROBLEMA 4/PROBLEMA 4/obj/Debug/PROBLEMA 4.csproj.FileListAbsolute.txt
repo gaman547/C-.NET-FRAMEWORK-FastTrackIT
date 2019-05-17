@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\PROBLEMA 4\PROBLEMA 4\bin\Debug\PROBLEMA 4.exe.config
+E:\proiecte fastTrack\PROBLEMA 4\PROBLEMA 4\bin\Debug\PROBLEMA 4.exe
+E:\proiecte fastTrack\PROBLEMA 4\PROBLEMA 4\bin\Debug\PROBLEMA 4.pdb
+E:\proiecte fastTrack\PROBLEMA 4\PROBLEMA 4\obj\Debug\PROBLEMA 4.csprojAssemblyReference.cache
+E:\proiecte fastTrack\PROBLEMA 4\PROBLEMA 4\obj\Debug\PROBLEMA 4.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\PROBLEMA 4\PROBLEMA 4\obj\Debug\PROBLEMA 4.exe
+E:\proiecte fastTrack\PROBLEMA 4\PROBLEMA 4\obj\Debug\PROBLEMA 4.pdb

@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\5 CUVINTE\5 CUVINTE\bin\Debug\5 CUVINTE.exe.config
+E:\proiecte fastTrack\5 CUVINTE\5 CUVINTE\bin\Debug\5 CUVINTE.exe
+E:\proiecte fastTrack\5 CUVINTE\5 CUVINTE\bin\Debug\5 CUVINTE.pdb
+E:\proiecte fastTrack\5 CUVINTE\5 CUVINTE\obj\Debug\5 CUVINTE.csprojAssemblyReference.cache
+E:\proiecte fastTrack\5 CUVINTE\5 CUVINTE\obj\Debug\5 CUVINTE.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\5 CUVINTE\5 CUVINTE\obj\Debug\5 CUVINTE.exe
+E:\proiecte fastTrack\5 CUVINTE\5 CUVINTE\obj\Debug\5 CUVINTE.pdb
