@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\PROBLEMA 5 ONE\PROBLEMA 5 ONE\bin\Debug\PROBLEMA 5 ONE.exe.config
+E:\proiecte fastTrack\PROBLEMA 5 ONE\PROBLEMA 5 ONE\bin\Debug\PROBLEMA 5 ONE.exe
+E:\proiecte fastTrack\PROBLEMA 5 ONE\PROBLEMA 5 ONE\bin\Debug\PROBLEMA 5 ONE.pdb
+E:\proiecte fastTrack\PROBLEMA 5 ONE\PROBLEMA 5 ONE\obj\Debug\PROBLEMA 5 ONE.csprojAssemblyReference.cache
+E:\proiecte fastTrack\PROBLEMA 5 ONE\PROBLEMA 5 ONE\obj\Debug\PROBLEMA 5 ONE.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\PROBLEMA 5 ONE\PROBLEMA 5 ONE\obj\Debug\PROBLEMA 5 ONE.exe
+E:\proiecte fastTrack\PROBLEMA 5 ONE\PROBLEMA 5 ONE\obj\Debug\PROBLEMA 5 ONE.pdb
