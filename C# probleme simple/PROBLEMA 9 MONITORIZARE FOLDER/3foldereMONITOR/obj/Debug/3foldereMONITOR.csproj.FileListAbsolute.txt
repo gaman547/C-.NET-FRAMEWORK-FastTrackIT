@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\3foldereMONITOR\3foldereMONITOR\bin\Debug\3foldereMONITOR.exe.config
+E:\proiecte fastTrack\3foldereMONITOR\3foldereMONITOR\bin\Debug\3foldereMONITOR.exe
+E:\proiecte fastTrack\3foldereMONITOR\3foldereMONITOR\bin\Debug\3foldereMONITOR.pdb
+E:\proiecte fastTrack\3foldereMONITOR\3foldereMONITOR\obj\Debug\3foldereMONITOR.csprojAssemblyReference.cache
+E:\proiecte fastTrack\3foldereMONITOR\3foldereMONITOR\obj\Debug\3foldereMONITOR.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\3foldereMONITOR\3foldereMONITOR\obj\Debug\3foldereMONITOR.exe
+E:\proiecte fastTrack\3foldereMONITOR\3foldereMONITOR\obj\Debug\3foldereMONITOR.pdb

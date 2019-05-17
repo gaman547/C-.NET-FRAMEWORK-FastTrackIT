@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\AlarmaEveniment\AlarmaEveniment\bin\Debug\AlarmaEveniment.exe.config
+E:\proiecte fastTrack\AlarmaEveniment\AlarmaEveniment\bin\Debug\AlarmaEveniment.exe
+E:\proiecte fastTrack\AlarmaEveniment\AlarmaEveniment\bin\Debug\AlarmaEveniment.pdb
+E:\proiecte fastTrack\AlarmaEveniment\AlarmaEveniment\obj\Debug\AlarmaEveniment.csprojAssemblyReference.cache
+E:\proiecte fastTrack\AlarmaEveniment\AlarmaEveniment\obj\Debug\AlarmaEveniment.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\AlarmaEveniment\AlarmaEveniment\obj\Debug\AlarmaEveniment.exe
+E:\proiecte fastTrack\AlarmaEveniment\AlarmaEveniment\obj\Debug\AlarmaEveniment.pdb
