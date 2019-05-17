@@ -42,19 +42,25 @@ Date de contact: Numar de telefon, email
 Exemplu de date de intrare:
 
 6
+
 -4 3 -9 0 4 1    
+
 Rezultat:
 
 0.500000
+
 0.333333
+
 0.166667
+
 Explicatie:
 
-Prima valoare reprezinta numarul de elemente de intrare. Pe cel de-al doilea rand sunt introduse numerele, 2 numere negative, 3 numbere pozitive si un 0. Proportiile detectate sunt urmatoarele:
+Prima valoare reprezinta numarul de elemente de intrare. Pe cel de-al doilea rand sunt introduse numerele,
+2 numere negative, 3 numbere pozitive si un 0. Proportiile detectate sunt urmatoarele:
 
-numere pozitive 3/6= 0.500000
-numere negative 2/6 = 0.333333
-zero 1/6= 0.166667
+numere pozitive 3/6  = 0.500000
+numere negative 2/6  = 0.333333
+zero 1/6  = 0.166667
 
 4. Scrietie o aplicatie in C# care primeste ca si argument o valoare si o distanta, tot ca si numar. Afisati un triunghi cu latura echivalenta cu distanta introdusa.
 
@@ -81,7 +87,9 @@ Aceasta este o propozitie cu 9 cuvinte, si o virgula!
 
 Aplicatia va afisa la consola numarul 9.
 
-6. FOLOSIND SIRURI. Pornind de la un sir de numere, impartiti aceste numere in 3 siruri, un sir e numere pozitive, un sir de numere negative si un sir de zerouri. Afisati la consola sirurile obtinute, si numarul de elemente in fiecare sir.
+6. PROBLEMA ANTERIOARE FOLOSIND SIRURI. 
+
+7. Pornind de la un sir de numere, impartiti aceste numere in 3 siruri, un sir e numere pozitive, un sir de numere negative si un sir de zerouri. Afisati la consola sirurile obtinute, si numarul de elemente in fiecare sir.
 
 Exemplu de date de intrare:
 
@@ -99,7 +107,9 @@ Zerouri 2:
 0.166667
 Explicatie:
 
-Prima valoare reprezinta numarul de elemente de intrare. Pe cel de-al doilea rand sunt introduse numerele, 2 numere negative, 3 numbere pozitive si doi de 0. In program se vor crea 3 siruri, si fiecare numar se va salva in sirul respectiv. Dupa ce toate numerele au fost procesate, din fiecare sir se va afisa numarul de elemente si apoi elementele acestuia pe rand nou.
+Prima valoare reprezinta numarul de elemente de intrare. Pe cel de-al doilea rand sunt introduse numerele, 2 numere negative,
+3 numbere pozitive si doi de 0. In program se vor crea 3 siruri, si fiecare numar se va salva in sirul respectiv. 
+Dupa ce toate numerele au fost procesate, din fiecare sir se va afisa numarul de elemente si apoi elementele acestuia pe rand nou.
 
 7. O universitate are urmatoarea forma de evaluare:
 
@@ -140,8 +150,10 @@ Explicatie
 
 Studentul 1 a primit nota 73. Urmatorul multiplu de 5 dupa 73 este 75. Deoarece 75-73 <3, nota rotunjita a studentului va fi 75.
 Studentul 2 a primit nota 67. Urmatorul multiplu de 5 dupa 67 este 70. Deoarece 70-67 =3, nota studentului ramane neschimbata.
-, Studentul 3 a primit nota 38. Urmatorul multiplu de 5 dupa 37 este 40. Deoarece 40-38 <3, nota rotunjita a studentului va fi 40.
- Studentul 4 a primit nota 33. Deoarece nota este mai mica decat 38 nota nu va fi modificata astfel ca studentul va primi 33.
+, Studentul 3 a primit nota 38. Urmatorul multiplu de 5 dupa 37 este 40. Deoarece 40-38 <3,
+nota rotunjita a studentului va fi 40.
+
+Studentul 4 a primit nota 33. Deoarece nota este mai mica decat 38 nota nu va fi modificata astfel ca studentul va primi 33.
 
 9. Scrieti un program care monitorizeaza 3 foldere diferite, pentru orice modificari posibile, si afiseaza la consola modificarile care s-au produs.
 
