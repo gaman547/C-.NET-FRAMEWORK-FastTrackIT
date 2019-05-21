@@ -103,7 +103,7 @@ Prima valoare reprezinta numarul de elemente de intrare. Pe cel de-al doilea ran
 3 numbere pozitive si doi de 0. In program se vor crea 3 siruri, si fiecare numar se va salva in sirul respectiv. 
 Dupa ce toate numerele au fost procesate, din fiecare sir se va afisa numarul de elemente si apoi elementele acestuia pe rand nou.
 
-7. O universitate are urmatoarea forma de evaluare:
+8. O universitate are urmatoarea forma de evaluare:
 
 Fiecare student primeste o nota in intre 0 si 100.
 Fiecare nota mai mica de 40 nu este nota de trecere.
