@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\TAMAGOTCHiMEOW\TAMAGOTCHiMEOW\bin\Debug\TAMAGOTCHiMEOW.exe.config
+E:\proiecte fastTrack\TAMAGOTCHiMEOW\TAMAGOTCHiMEOW\bin\Debug\TAMAGOTCHiMEOW.exe
+E:\proiecte fastTrack\TAMAGOTCHiMEOW\TAMAGOTCHiMEOW\bin\Debug\TAMAGOTCHiMEOW.pdb
+E:\proiecte fastTrack\TAMAGOTCHiMEOW\TAMAGOTCHiMEOW\obj\Debug\TAMAGOTCHiMEOW.csprojAssemblyReference.cache
+E:\proiecte fastTrack\TAMAGOTCHiMEOW\TAMAGOTCHiMEOW\obj\Debug\TAMAGOTCHiMEOW.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\TAMAGOTCHiMEOW\TAMAGOTCHiMEOW\obj\Debug\TAMAGOTCHiMEOW.exe
+E:\proiecte fastTrack\TAMAGOTCHiMEOW\TAMAGOTCHiMEOW\obj\Debug\TAMAGOTCHiMEOW.pdb
