@@ -41,3 +41,9 @@ true
 6 <1
 
 false
+
+12. Mihai doreste sa isi crease viteza de scrie astfel incat sa aiba rezultate mai bune la concursurile de programare. Prietenul lui i-a sugerat sa scrie propozitia "Vând muzică de jazz și haine de bun-gust în New-York și Quebec, la preț fix." in mod repetat. Aceasta propozitie se numeste o pangrama.
+
+Dupa ce a scris propozitia de mai multe ori, Miha s-a plictisit astfel ca a inceput sa caute alte pangrame.
+
+Pornind de la o propozitie, determinati daca aceasta este un pangram. Ignorati daca e scrisa cu caractere mari sau mici.
