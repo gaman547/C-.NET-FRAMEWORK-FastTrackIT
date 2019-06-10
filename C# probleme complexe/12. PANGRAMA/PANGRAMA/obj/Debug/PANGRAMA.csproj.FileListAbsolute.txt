@@ -1,0 +1,7 @@
+E:\proiecte fastTrack\PANGRAMA\PANGRAMA\bin\Debug\PANGRAMA.exe.config
+E:\proiecte fastTrack\PANGRAMA\PANGRAMA\bin\Debug\PANGRAMA.exe
+E:\proiecte fastTrack\PANGRAMA\PANGRAMA\bin\Debug\PANGRAMA.pdb
+E:\proiecte fastTrack\PANGRAMA\PANGRAMA\obj\Debug\PANGRAMA.csprojAssemblyReference.cache
+E:\proiecte fastTrack\PANGRAMA\PANGRAMA\obj\Debug\PANGRAMA.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\PANGRAMA\PANGRAMA\obj\Debug\PANGRAMA.exe
+E:\proiecte fastTrack\PANGRAMA\PANGRAMA\obj\Debug\PANGRAMA.pdb
