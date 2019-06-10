@@ -26,7 +26,7 @@ namespace PANGRAMA
                 }
             }
 
-            if (NumarBucati >= 26)
+            if (NumarBucati == 26)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Propozitia este PANGRAM");
