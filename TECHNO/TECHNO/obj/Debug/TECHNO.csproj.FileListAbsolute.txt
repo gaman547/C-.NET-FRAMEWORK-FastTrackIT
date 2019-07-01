@@ -1,0 +1,14 @@
+E:\proiecte fastTrack\TECHNO\TECHNO\bin\Debug\TECHNO.exe.config
+E:\proiecte fastTrack\TECHNO\TECHNO\bin\Debug\TECHNO.exe
+E:\proiecte fastTrack\TECHNO\TECHNO\bin\Debug\TECHNO.pdb
+E:\proiecte fastTrack\TECHNO\TECHNO\obj\Debug\TECHNO.csprojAssemblyReference.cache
+E:\proiecte fastTrack\TECHNO\TECHNO\obj\Debug\TECHNO.csproj.CoreCompileInputs.cache
+E:\proiecte fastTrack\TECHNO\TECHNO\obj\Debug\TECHNO.exe
+E:\proiecte fastTrack\TECHNO\TECHNO\obj\Debug\TECHNO.pdb
+C:\Users\ROG47\Desktop\TECHNO\TECHNO\bin\Debug\TECHNO.exe.config
+C:\Users\ROG47\Desktop\TECHNO\TECHNO\bin\Debug\TECHNO.exe
+C:\Users\ROG47\Desktop\TECHNO\TECHNO\bin\Debug\TECHNO.pdb
+C:\Users\ROG47\Desktop\TECHNO\TECHNO\obj\Debug\TECHNO.csprojAssemblyReference.cache
+C:\Users\ROG47\Desktop\TECHNO\TECHNO\obj\Debug\TECHNO.csproj.CoreCompileInputs.cache
+C:\Users\ROG47\Desktop\TECHNO\TECHNO\obj\Debug\TECHNO.exe
+C:\Users\ROG47\Desktop\TECHNO\TECHNO\obj\Debug\TECHNO.pdb
