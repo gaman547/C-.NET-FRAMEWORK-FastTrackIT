@@ -1,0 +1,7 @@
+C:\Users\ROG47\Desktop\FermaAnimalelor\FermaAnimalelor\bin\Debug\FermaAnimalelor.exe.config
+C:\Users\ROG47\Desktop\FermaAnimalelor\FermaAnimalelor\bin\Debug\FermaAnimalelor.exe
+C:\Users\ROG47\Desktop\FermaAnimalelor\FermaAnimalelor\bin\Debug\FermaAnimalelor.pdb
+C:\Users\ROG47\Desktop\FermaAnimalelor\FermaAnimalelor\obj\Debug\FermaAnimalelor.csprojAssemblyReference.cache
+C:\Users\ROG47\Desktop\FermaAnimalelor\FermaAnimalelor\obj\Debug\FermaAnimalelor.csproj.CoreCompileInputs.cache
+C:\Users\ROG47\Desktop\FermaAnimalelor\FermaAnimalelor\obj\Debug\FermaAnimalelor.exe
+C:\Users\ROG47\Desktop\FermaAnimalelor\FermaAnimalelor\obj\Debug\FermaAnimalelor.pdb
